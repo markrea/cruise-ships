@@ -6,7 +6,7 @@
   "scripts": {
     "test": "'jest'"
   },
-  "author": "",
+  "author": "Mark Rea",
   "license": "ISC",
   "devDependencies": {
     "jest": "^25.2.3"
